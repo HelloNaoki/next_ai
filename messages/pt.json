@@ -1,0 +1,28 @@
+{
+  "common": {
+    "home": "LAR",
+    "pricing": "PREÇOS",
+    "parity": "Comparação de preços",
+    "Instance": "Exemplo",
+    "contact_us": "Contate-nos",
+    "help_center": "CENTRAL DE AJUDA",
+    "email": "E-mail",
+    "sign_out": "Sair",
+    "sign_in": "Entrar",
+    "register": "Registrar",
+    "forgotPassword": "Esqueceu palavra-passe",
+    "subscribe": "Inscrição",
+    "close": "Fechar",
+    "password": "Senha",
+    "enterValidEmail": "Insira seu e-mail válido!",
+    "enter6To12Password": "Insira uma senha de 6 a 12 dígitos",
+    "personalCenter": "Centro pessoal",
+    "myProfile": "Meu perfil",
+    "myOrders": "Minha transação",
+    "changePassword": "Alterar senha",
+    "Language": "Idioma",
+    "changeLanguage": "Mudar idioma",
+    "loginSuccess": "Entrar bem-sucedido",
+    "logoutSuccess": "Sair bem-sucedido"
+  }
+}

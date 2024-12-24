@@ -1,0 +1,28 @@
+{
+  "common": {
+    "home": "主页",
+    "pricing": "定价",
+    "parity": "比价",
+    "Instance": "实例",
+    "contact_us": "联系我们",
+    "help_center": "帮助中心",
+    "email": "电子邮件",
+    "sign_out": "退出登录",
+    "sign_in": "登录",
+    "register": "注册",
+    "forgotPassword": "忘记密码",
+    "subscribe": "订阅",
+    "close": "关闭",
+    "password": "密码",
+    "enterValidEmail": "请输入正确的邮箱！",
+    "enter6To12Password": "请输入正确的密码！",
+    "personalCenter": "个人中心",
+    "myProfile": "我的个人信息",
+    "myOrders": "我的订单",
+    "changePassword": "修改密码",
+    "Language": "语言",
+    "changeLanguage": "切换语言",
+    "loginSuccess": "登录成功",
+    "logoutSuccess": "退出成功"
+  }
+}

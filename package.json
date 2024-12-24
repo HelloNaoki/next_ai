@@ -1,0 +1,52 @@
+{
+  "name": "instacloud",
+  "version": "1.0.0",
+  "description": "InstaCloud",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "nextjs",
+    "tailwindcss",
+    "free"
+  ],
+  "author": "InstaCloud",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/openai": "0.0.40",
+    "@nextui-org/react": "^2.6.8",
+    "ai": "3.4.3",
+    "crypto-js": "^4.2.0",
+    "framer-motion": "^11.15.0",
+    "js-cookie": "^3.0.5",
+    "next": "15.0.2",
+    "next-intl": "^3.26.0",
+    "next-themes": "^0.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-markdown": "^9.0.1",
+    "remark-gfm": "^4.0.0",
+    "sonner": "^1.7.1",
+    "toastify-js": "^1.12.0",
+    "usehooks-ts": "^3.1.0",
+    "zod": "^3.24.1",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/toastify-js": "^1.12.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

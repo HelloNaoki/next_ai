@@ -1,0 +1,2 @@
+pm2 start npm --name "H5_InstaCloud_Web" -- start
+nginx -c /opt/wisecloud/h5_instacloud/H5_InstaCloud_Web/nginx/conf/nginx.conf -p /opt/wisecloud/h5_instacloud/H5_InstaCloud_Web/nginx/ -g 'daemon off;'

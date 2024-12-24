@@ -1,0 +1,28 @@
+{
+  "common": {
+    "home": "HOME",
+    "pricing": "PRICING",
+    "parity": "Compare Prices",
+    "Instance": "Examples",
+    "contact_us": "Contact Us",
+    "help_center": "HELP CENTER",
+    "email": "Email",
+    "sign_out": "Logout",
+    "sign_in": "Login",
+    "register": "Register",
+    "forgotPassword": "Forget the password",
+    "subscribe": "Subscribe",
+    "close": "Close",
+    "password": "Password",
+    "enterValidEmail": "Please enter your valid email!",
+    "enter6To12Password": "Please enter a password of 6-12 digits",
+    "personalCenter": "Personal Center",
+    "myProfile": "My Profile",
+    "myOrders": "My deal",
+    "changePassword": "Change Password",
+    "Language": "Language",
+    "changeLanguage": "Change Language",
+    "loginSuccess": "Login Success",
+    "logoutSuccess": "Logout Success"
+  }
+}

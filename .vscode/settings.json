@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "instacloud",
+        "nextui",
+        "readpath",
+        "Toastify",
+        "wisecloud"
+    ],
+    "i18n-ally.localesPaths": [
+        "messages",
+        "src/i18n"
+    ]
+}
